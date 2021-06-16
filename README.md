@@ -44,7 +44,7 @@ You can contact us by opening an issue in github. Also you can do a feature requ
 
 #### 4)More Info ?
 
-visit :![CCMS](https://copyrightccms.wordpress.com/)
+visit : [CCMS](https://copyrightccms.wordpress.com/)
 ## Feedback
 
 If you have any feedback, please reach out to us at [Feedback.ccms.com](https://copyrightccms.wordpress.com/)
@@ -70,7 +70,7 @@ If you have any feedback, please reach out to us at [Feedback.ccms.com](https://
 ## Languages and Database used : 
 
 >Python
-MySql
+>MySql
 
 
 
