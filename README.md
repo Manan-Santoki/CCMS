@@ -2,8 +2,10 @@
 # CCMS (Coaching Class Management System)
 
 >This Project is made to make life of employees easier who are working at Coaching Institute.
->>We all know , long excell sheets are too much pain , so Don't Worry We as Developer are Here !
->>>Next here is a demo of our project.
+
+>We all know , long excell sheets are too much pain , so Don't Worry We as Developer are Here !
+
+>Next here is a demo of our project.
 
 
 
@@ -28,19 +30,19 @@
   
 ## FAQ
 
-#### Is this Project Open Source ?
+#### 1)Is this Project Open Source ?
 
 Definetly Yes.
 
-#### Can I use this Project for Commercial Use ?
+#### 2)Can I use this Project for Commercial Use ?
 
 Ummm, yes But we don not guarentee any future support or compatibility support
 
-#### Where Can We contact The developer ?
+#### 3)Where Can We contact The developer ?
 
 You can contact us by opening an issue in github. Also you can do a feature request
 
-#### More Info ?
+#### 4)More Info ?
 
 visit : [CCMS.com](copyrightccms.wordpress.com)
 ## Feedback
