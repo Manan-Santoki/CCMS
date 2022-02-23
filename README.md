@@ -64,7 +64,7 @@ If you have any feedback, please reach out to us at [Feedback.ccms.com](https://
 ## Authors
 
 - [@MananSantoki](https://github.com/Manan-Santoki)
-- [@VedantTulsyan](https://github.com/VedantTulsyan)
+- [VedantTulsyan](https://github.com/VedantTulsyan)
 
   
 ## Languages and Database used : 
